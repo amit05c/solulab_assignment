@@ -60,6 +60,7 @@
 .last>div{
     background: #F9F9F9;
     padding: 0.5rem 3rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 }
 
 .last2{
@@ -73,6 +74,7 @@
 .last2>div{
     background: #F9F9F9;
     padding: 0.5rem 3rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 }
 
 
