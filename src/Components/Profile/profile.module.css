@@ -1,0 +1,25 @@
+.profile{
+    width: 30%;
+    /* border: 1px solid red; */
+}
+
+img{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.post{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button{
+    width: 80%;
+    padding: 1rem 2rem;
+}
+
+.file>p{
+    background: #F9F9F9;
+    padding: 1rem;
+}
