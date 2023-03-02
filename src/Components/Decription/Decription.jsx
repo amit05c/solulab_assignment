@@ -14,7 +14,7 @@ const Decription = () => {
 
         <div>
         <p>Birthday</p>
-          <p>05th may</p>
+          <p>Feb 24, 1997</p>
         </div>
 
         <div>

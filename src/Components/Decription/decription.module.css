@@ -14,6 +14,7 @@
 .first>div{
     background: #F9F9F9;
     padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
     /* border: 1px solid red; */
     
 }
@@ -35,7 +36,13 @@
 }
 .third>div:first-child{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    padding: 1rem;
+    background: #F9F9F9;
+    margin-bottom: 1rem;
+    
 }
 
 .third>div:first-child>h3{

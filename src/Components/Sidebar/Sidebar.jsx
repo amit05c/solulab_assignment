@@ -13,12 +13,12 @@ const Sidebar = () => {
   <a href="#folder">Folder</a>
 </div>
 
-<div className={style.content}>
+{/* <div className={style.content}>
   
    <Profile/>
    <Decription/>
 
-</div>
+</div> */}
 </div>
   )
 }
